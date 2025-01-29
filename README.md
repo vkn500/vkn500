@@ -14,7 +14,7 @@ To leverage my skills in AI/ML to develop intelligent solutions that enhance eff
 - IoT & Edge AI
 
 ## 📫 Connect with Me
-- [GitHub]()
+- [GitHub](https://github.com/vkn500)
 - [LinkedIn](http://www.linkedin.com/in/vishal-nishad-a5a3b826a) 
 - Email: nishvishu337@gamil.com 
 
