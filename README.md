@@ -13,17 +13,10 @@ I am an aspiring **Artificial Intelligence & Machine Learning** student, eager t
 ### 🎯 Career Goal:
 To build impactful AI solutions that drive efficiency, innovation, and automation in various industries.
 
-### 📬 Let's Connect:
-- **GitHub:** (https://github.com/vkn500) 
-- **LinkedIn:** (http://www.linkedin.com/in/vishal-nishad-a5a3b826) 
-- **Email:** nishvishu337@gamil.com  
-
-🚀 Let's collaborate and innovate together!
-
-
 ## 📫 Connect with Me
 - [GitHub](https://github.com/vkn500)
 - [LinkedIn](http://www.linkedin.com/in/vishal-nishad-a5a3b826a) 
-- Email: nishvishu337@gamil.com 
+- Email: nishvishu337@gamil.com   
+
 
 ### 💡 Let's collaborate on exciting AI projects!
