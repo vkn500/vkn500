@@ -1,6 +1,6 @@
-**👋 Hello, I'm Vishal Nishad!**
+#**👋 Hello, I'm Vishal Nishad!**
 
-🔹 **AI/ML Enthusiast** | 🎓 Student | 💡 Passionate about Data & Automation
+##🔹 **AI/ML Enthusiast** | 🎓 Student | 💡 Passionate about Data & Automation
 
 I am an aspiring **Artificial Intelligence & Machine Learning** student, eager to explore innovative AI-driven solutions. My interests lie in **deep learning, data science, and intelligent automation**.
 
