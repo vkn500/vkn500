@@ -1,17 +1,25 @@
-# Hi there, I'm Vishal Nishad! 👋
+**👋 Hello, I'm Vishal Nishad!**
 
-## 🚀 About Me
-I am a passionate **Artificial Intelligence & Machine Learning** student, constantly exploring the world of AI, deep learning, and data science. I love working on innovative projects that leverage AI/ML to solve real-world problems.
+🔹 **AI/ML Enthusiast** | 🎓 Student | 💡 Passionate about Data & Automation
 
-## 🎯 Career Objective
-To leverage my skills in AI/ML to develop intelligent solutions that enhance efficiency, automation, and decision-making across various industries. I aim to continuously learn, contribute to cutting-edge research, and collaborate on impactful projects.
+I am an aspiring **Artificial Intelligence & Machine Learning** student, eager to explore innovative AI-driven solutions. My interests lie in **deep learning, data science, and intelligent automation**.
 
-## 🔧 Skills & Interests
-- Machine Learning & Deep Learning
-- Data Science & Analytics
-- Computer Vision & NLP
-- Python, TensorFlow, PyTorch
-- IoT & Edge AI
+### 🚀 What I Do:
+- Develop AI/ML models for predictive analytics & automation.
+- Explore computer vision & NLP applications.
+- Work on IoT & AI integration for real-world use cases.
+- Constantly learning and contributing to open-source projects.
+
+### 🎯 Career Goal:
+To build impactful AI solutions that drive efficiency, innovation, and automation in various industries.
+
+### 📬 Let's Connect:
+- **GitHub:** (https://github.com/vkn500) 
+- **LinkedIn:** (http://www.linkedin.com/in/vishal-nishad-a5a3b826) 
+- **Email:** nishvishu337@gamil.com  
+
+🚀 Let's collaborate and innovate together!
+
 
 ## 📫 Connect with Me
 - [GitHub](https://github.com/vkn500)
