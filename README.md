@@ -16,7 +16,7 @@ To build impactful AI solutions that drive efficiency, innovation, and automatio
 ## 📫 Connect with Me
 - [GitHub](https://github.com/vkn500)
 - [LinkedIn](http://www.linkedin.com/in/vishal-nishad-a5a3b826a) 
-- Email: nishvishu337@gamil.com   
+- [Email](mailto:nishvishu337@gamil.com)   
 
 
 ### 💡 Let's collaborate on exciting AI projects!
